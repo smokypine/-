@@ -4,7 +4,7 @@
 ### subsub title
 
 # 수행 프로젝트
-## [html 사이트 제작하기](https://smokypine.github.io/main_iframe.html/)
+## [html 사이트 제작하기](https://smokypine.github.io/smokypine.github.io/)
 
 # 나의 소개
 안녕하세요 김동현입니다. <br>
