@@ -20,3 +20,5 @@
 전국 대학생 IT 아이디어 대회
 [대상 수상작 발표자료](/presentation.pdf) <br>
 
+# 이 페이지를 위한 경로
+인터넷에 [https://smokypine.github.io/Python_learning/] 를 입력할 것.
