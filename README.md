@@ -5,7 +5,7 @@
 
 # 나의 소개
 안녕하세요 김동현입니다. <br>
-<img src = "tiger.jpg" width="500" height ="400" /> <br>
+<img src = "tiger.jpg" width="600" height ="400" /> <br>
 
 ## 좋아하는 노래
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Z7fJi6YNT8A" title="[한글자막] 원피스 필름 레드 스페셜 ost - 빙크스의 술 / Ado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
