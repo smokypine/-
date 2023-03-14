@@ -6,6 +6,8 @@
 # 수행 프로젝트
 ## [html 사이트 제작하기](https://smokypine.github.io/smokypine.github.io/)
 
+# 기능 1을 추가합니다.
+
 # 나의 소개
 안녕하세요 김동현입니다. <br>
 <img src = "tiger.jpg" width="600" height ="400" /> <br>
