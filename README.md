@@ -21,4 +21,4 @@
 [대상 수상작 발표자료](/presentation.pdf) <br>
 
 # 이 페이지를 위한 경로
-인터넷에 [https://smokypine.github.io/Python_learning/] 를 입력할 것.
+인터넷에 https://smokypine.github.io/Python_learning/ 를 입력할 것.
